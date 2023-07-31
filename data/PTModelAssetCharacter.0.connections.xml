@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>3320</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3322</string>
+                </dict>
+                <key>Shooting Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3361</string>
+                </dict>
+                <key>Bullet Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3335</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3388</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3414</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3441</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>3326</string>
+                    <string>6531</string>
+                    <string>8314</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4620</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>4622</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>4626</string>
+                </array>
+            </dict>
+        </array>
+    </dict>
+</plist>
